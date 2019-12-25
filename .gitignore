@@ -1,2 +1,11 @@
 .ds_store
 node_modules
+.idea/.gitignore
+.idea/$CACHE_FILE$
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/jsLinters/jshint.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/xdomain-cookies.iml
